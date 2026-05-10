@@ -27,7 +27,3 @@ The EDA phase uncovered several key findings:
 * **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 * [cite_start]**Visualization**: Power BI (`Zomato_Insights_Dashboard.pbix`) [cite: 1, 291]
 
-## 👤 Author
-**Yash Kumar**
-* BSc in Computer Science and Data Analytics (CSDA)
-* Passionate about Data Engineering and Business Intelligence
